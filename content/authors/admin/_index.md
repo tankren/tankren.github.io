@@ -81,7 +81,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-09-01
-    date_end: 2021-11-31
+    date_end: 2021-11-30
     summary: |
       Responsibilities include:
       - Responsible for system implementation of SAP MM/WM for local and global projects
