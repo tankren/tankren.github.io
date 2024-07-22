@@ -157,6 +157,12 @@ languages:
   - name: Portuguese
     percent: 25
 
+# Certificates.
+certificates:
+  - name: Project Management Professional (PMP)
+    date_start: 2019-06-01
+    date_end: 2025-06-30
+     
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
