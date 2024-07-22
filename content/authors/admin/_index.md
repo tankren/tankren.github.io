@@ -67,7 +67,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-12-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     summary: |
       Responsibilities include:
       - Lead the Carve-out project of MVP from RBCW
