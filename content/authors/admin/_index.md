@@ -30,6 +30,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tankren@outlook.com'
     label: E-mail Me
+  - icon: "custom/telephone"
+    url: 'tel:18552431205'
+    label: Call Me    
   - icon: brands/weixin
     url: https://a.eturl.cn/DQzFWZ
     label: Wechat
@@ -120,18 +123,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: SAP MM
+      - name: SAP MM/WM
         description: ''
         percent: 99
         icon: 
-      - name: RStudio
+      - name: SAP PP/SD
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 80
+        icon: 
+      - name: SAP QM/PM/PS/CS/FICO
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 60
+        icon: 
+      - name: SAP EDI/WF/ABAP
+        description: ''
+        percent: 50
+        icon:         
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -140,22 +147,15 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Fishing
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 90
+  - name: Wu dialect
+    percent: 100
      
 # Awards.
 #   Add/remove as many awards below as you like.
