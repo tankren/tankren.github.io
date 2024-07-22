@@ -1,43 +1,42 @@
 ---
 # Display name
-title: 吳健雄
+title: 任陈龙
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: REN Chenlong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenlong
+last_name: REN
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: SAP Application Manager MM/WM
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Ammann SAP CCoE
+    url: https://www.ammann.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tankren@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/weixin
+    url: https://a.eturl.cn/DQzFWZ
+    label: Wechat
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tankren
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
