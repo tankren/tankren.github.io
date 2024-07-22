@@ -45,8 +45,4 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: certificates
-    content:
-      title: Certificates
-      username: admin      
 ---
