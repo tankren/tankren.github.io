@@ -113,7 +113,7 @@ work:
       Responsibilities include:
       - Handle customer complaints and complaints
       - Customer complaint sample submission and issuance of inspection report
-      - Compliation of D report
+      - Compliation of 8D report
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
