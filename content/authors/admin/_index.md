@@ -43,7 +43,7 @@ education:
   - area: Food Science and Engineering
     institution: Huazhong Agriculture University
     date_start: 2006-09-01
-    date_end: 2010-6-30
+    date_end: 2010-06-30
     summary: |
 
 work:
