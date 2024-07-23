@@ -177,7 +177,7 @@ languages:
 awards:
   - title: ACZ EWM project
     url: 
-    date: '2024-07-31'
+    date: '2024-07-01'
     awarder: August 2023
     icon: 
     summary: |
@@ -193,7 +193,7 @@ awards:
       -  Support to close identified gap during project, such as enhancement to existing Z program
   - title: AAA DP Plant project
     url: 
-    date: '2024-05-31'
+    date: '2024-05-01'
     awarder: March 2024
     icon: 
     summary: |
@@ -208,7 +208,7 @@ awards:
       - Functional test and UAT Support
   - title: Volvo Atlas project for Day1
     url: 
-    date: '2024-06-31'
+    date: '2024-06-01'
     awarder: January 2024
     icon: 
     summary: |
@@ -228,7 +228,7 @@ awards:
      - Guide users to do a comprehensive test in test system, and transportto productive system after passing the test
   - title: Bosch Espresso2 carve-out project
     url: 
-    date: '2022-11-31'
+    date: '2022-11-01'
     awarder: December 2021
     icon: 
     summary: |
@@ -242,7 +242,7 @@ awards:
     - Sort technical documentation, complete the knowledge pool
   - title: IDM MRP automation
     url: 
-    date: '2021-07-15'
+    date: '2021-07-01'
     awarder: September 2020
     icon: 
     summary: |
