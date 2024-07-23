@@ -268,8 +268,7 @@ awards:
     awarder: September 2019
     icon: 
     summary: |
-    A new program set to cover direct material/indirect material request process flow
-    Responsibilities:
+    A new program set to cover direct material/indirect material request process flow:
     - analyse business process flow
     - consolidate function specs based on equirement
     - test program after development
@@ -280,8 +279,7 @@ awards:
     awarder: September 2017
     icon: 
     summary: |    
-    A new program set to cover chip matetial request process in SAP.
-    Responsibilities:
+    A new program set to cover chip matetial request process in SAP:
     - analyse business process flow
     - consolidate function specs based on equirement
     - test program after development
