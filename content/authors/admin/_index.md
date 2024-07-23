@@ -232,7 +232,7 @@ awards:
     awarder: December 2021
     icon: 
     summary: |
-    Responsible to lead the Carve-out project of MVP from RBCWCollect and sort the current business process which is ERP related
+    Responsible to lead the Carve-out project of MVP from RBCWCollect and sort the current business process which is ERP related:
     - Design and prepare the test case file
     - Understand the migration concept and prepare the migration whitelist
     - Clean up the productive system for carve-out migration
@@ -246,7 +246,7 @@ awards:
     awarder: September 2020
     icon: 
     summary: |
-    This project is in order to improve IDM planning efficiency, intergrate all the planning tools into one stop.
+    This project is in order to improve IDM planning efficiency, intergrate all the planning tools into one stop:
     - Understand as-is working routines and all the procedures
     - Analyse the business process and help to optimize the planning process
     - Implement MRP monitor to handle ROP and safety stock update, PR auto generation and PO auto conversion
@@ -257,7 +257,7 @@ awards:
     awarder: March 2020
     icon: 
     summary: |
-    This project is a part of cost saving action, to remove the pizza box from all finished goods packing.
+    This project is a part of cost saving action, to remove the pizza box from all finished goods packing:
     - Analyze the as-is business process and draw the flow chart
     - Compile requirement specification for WM customizing change
     - Execute customizing and test and guide users to perform UAT
@@ -269,7 +269,7 @@ awards:
     icon: 
     summary: |
     A new program set to cover direct material/indirect material request process flow
-    Responsibilities
+    Responsibilities:
     - analyse business process flow
     - consolidate function specs based on equirement
     - test program after development
@@ -281,7 +281,7 @@ awards:
     icon: 
     summary: |    
     A new program set to cover chip matetial request process in SAP.
-    Responsibilities
+    Responsibilities:
     - analyse business process flow
     - consolidate function specs based on equirement
     - test program after development
