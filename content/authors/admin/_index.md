@@ -187,8 +187,6 @@ awards:
       - Integrated EWM with other business systems for seamless data flow and better decisionmaking.
       - Conducted user training to ensure a smooth transition and maximize system utilization.
       - Achieved significant cost savings and increased productivity post-implementation.
-      Responsible:
-      -  Supporting role
       -  Learn EWM process and customizing by testing and doing.
       -  Support to close identified gap during project, such as enhancement to existing Z program
   - title: AAA DP Plant project
@@ -203,7 +201,6 @@ awards:
       - Established and validated shipping points within the system, enhancing supply chain management and shipment tracking capabilities.
       - Conducted thorough testing of all configurations to guarantee functionality and minimize disruptions during the transition phase.
       - Coordinated with cross-functional teams to ensure smooth adoption and user training for the updated SAP environment.
-      Responsible: 
       - Customizing for MM module
       - Functional test and UAT Support
   - title: Volvo Atlas project for Day1
@@ -232,58 +229,58 @@ awards:
     awarder: December 2021
     icon: 
     summary: |
-    Responsible to lead the Carve-out project of MVP from RBCWCollect and sort the current business process which is ERP related:
-    - Design and prepare the test case file
-    - Understand the migration concept and prepare the migration whitelist
-    - Clean up the productive system for carve-out migration
-    - Coordinate and guide end user to conduct test in each module, analysis and solve issue detected by user
-    - Responsible for trouble shooting and ABAP debugging
-    - Raise change (customizing or enhancement) request to external consultant or ABAPer, test and release
-    - Sort technical documentation, complete the knowledge pool
+     - Lead the Carve-out project of MVP from RBCWCollect and sort the current business process which is ERP related
+     - Design and prepare the test case file
+     - Understand the migration concept and prepare the migration whitelist
+     - Clean up the productive system for carve-out migration
+     - Coordinate and guide end user to conduct test in each module, analysis and solve issue detected by user
+     - Responsible for trouble shooting and ABAP debugging
+     - Raise change (customizing or enhancement) request to external consultant or ABAPer, test and release
+     - Sort technical documentation, complete the knowledge pool
   - title: IDM MRP automation
     url: 
     date: '2021-07-01'
     awarder: September 2020
     icon: 
     summary: |
-    This project is in order to improve IDM planning efficiency, intergrate all the planning tools into one stop:
-    - Understand as-is working routines and all the procedures
-    - Analyse the business process and help to optimize the planning process
-    - Implement MRP monitor to handle ROP and safety stock update, PR auto generation and PO auto conversion
-    - Implement RPA to compile one stop Excel file for planning review and update
+      This project is in order to improve IDM planning efficiency, intergrate all the planning tools into one stop:
+      - Understand as-is working routines and all the procedures
+      - Analyse the business process and help to optimize the planning process
+      - Implement MRP monitor to handle ROP and safety stock update, PR auto generation and PO auto conversion
+      - Implement RPA to compile one stop Excel file for planning review and update
   - title: Pizza box free project
     url: 
     date: '2021-02-01'
     awarder: March 2020
     icon: 
     summary: |
-    This project is a part of cost saving action, to remove the pizza box from all finished goods packing:
-    - Analyze the as-is business process and draw the flow chart
-    - Compile requirement specification for WM customizing change
-    - Execute customizing and test and guide users to perform UAT
-    - Prepare for MM cutover when go-live
+      This project is a part of cost saving action, to remove the pizza box from all finished goods packing:
+      - Analyze the as-is business process and draw the flow chart
+      - Compile requirement specification for WM customizing change
+      - Execute customizing and test and guide users to perform UAT
+      - Prepare for MM cutover when go-live
   - title: DM eMR project
     url: 
     date: '2024-12-01'
     awarder: September 2019
     icon: 
     summary: |
-    A new program set to cover direct material/indirect material request process flow:
-    - analyse business process flow
-    - consolidate function specs based on equirement
-    - test program after development
-    - user training
+      A new program set to cover direct material/indirect material request process flow:
+      - analyse business process flow
+      - consolidate function specs based on equirement
+      - test program after development
+      - user training
   - title: Chip eMR project
     url: 
     date: '2018-05-01'
     awarder: September 2017
     icon: 
     summary: |    
-    A new program set to cover chip matetial request process in SAP:
-    - analyse business process flow
-    - consolidate function specs based on equirement
-    - test program after development
-    - user training
+      A new program set to cover chip matetial request process in SAP:
+      - analyse business process flow
+      - consolidate function specs based on equirement
+      - test program after development
+      - user training
 ---
 
 I am currently SAP Application Manager MM/WM at Ammann SAP Customer Center of Expertise (CCoE) where I am responsible for SAP Application process management and optimization, specifically focusing on MM/WM modules, ensuring efficient operations and enhanced productivity.
