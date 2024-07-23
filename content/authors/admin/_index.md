@@ -125,7 +125,7 @@ skills:
     items:
       - name: SAP MM/WM
         description: ''
-        percent: 99
+        percent: 95
         icon: 
       - name: SAP PP/SD
         description: ''
@@ -175,31 +175,117 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: ACZ EWM project
+    url: 
+    date: '2024-07-31'
+    awarder: August 2023
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Project Description:
+      - Transformed the existing warehouse management system (WMS) into an enhanced warehouse management system (EWM) to support business expansion.
+      - Streamlined logistics processes, improving inventory accuracy and operational efficiency.
+      - Integrated EWM with other business systems for seamless data flow and better decisionmaking.
+      - Conducted user training to ensure a smooth transition and maximize system utilization.
+      - Achieved significant cost savings and increased productivity post-implementation.
+      Responsible:
+      -  Supporting role
+      -  Learn EWM process and customizing by testing and doing.
+      -  Support to close identified gap during project, such as enhancement to existing Z program
+  - title: AAA DP Plant project
+    url: 
+    date: '2024-05-31'
+    awarder: March 2024
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Project Description:
+      - Configured and setup a new factory in SAP post the company's relocation, ensuring seamless integration into existing business operations.
+      - Set up and optimized procurement organizations to align with the changed logistics setup, facilitating efficient purchasing processes.
+      - Established and validated shipping points within the system, enhancing supply chain management and shipment tracking capabilities.
+      - Conducted thorough testing of all configurations to guarantee functionality and minimize disruptions during the transition phase.
+      - Coordinated with cross-functional teams to ensure smooth adoption and user training for the updated SAP environment.
+      Responsible: 
+      - Customizing for MM module
+      - Functional test and UAT Support
+  - title: Volvo Atlas project for Day1
+    url: 
+    date: '2024-06-31'
+    awarder: January 2024
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     - Contributed to the SAP integration project following the Volvo paver acquisition, responsible for system configuration in MM and WM area.
+     - Assisted in testing the SAP setup to ensure seamless integration with the merged operations.
+     - Supported data migration processes, ensuring data accuracy during transition to the SAP platform.
+     - Collaborated in creating user training materials, facilitating the adoption of the new SAP system for team members.
+  - title: WEIFU Fixed Assets implementation
+    url: 
+    date: '2023-02-01'
+    awarder: February 2023
+    icon: 
+    summary: |
+     - Analyze and summary the asset class customizing in current system
+     - Understand and organize new asset class business needs
+     - Write customizing documents and customize in development system, transport to test system
+     - Guide users to do a comprehensive test in test system, and transportto productive system after passing the test
+  - title: Bosch Espresso2 carve-out project
+    url: 
+    date: '2022-11-31'
+    awarder: December 2021
+    icon: 
+    summary: |
+    Responsible to lead the Carve-out project of MVP from RBCWCollect and sort the current business process which is ERP related
+    - Design and prepare the test case file
+    - Understand the migration concept and prepare the migration whitelist
+    - Clean up the productive system for carve-out migration
+    - Coordinate and guide end user to conduct test in each module, analysis and solve issue detected by user
+    - Responsible for trouble shooting and ABAP debugging
+    - Raise change (customizing or enhancement) request to external consultant or ABAPer, test and release
+    - Sort technical documentation, complete the knowledge pool
+  - title: IDM MRP automation
+    url: 
+    date: '2021-07-15'
+    awarder: September 2020
+    icon: 
+    summary: |
+    This project is in order to improve IDM planning efficiency, intergrate all the planning tools into one stop.
+    - Understand as-is working routines and all the procedures
+    - Analyse the business process and help to optimize the planning process
+    - Implement MRP monitor to handle ROP and safety stock update, PR auto generation and PO auto conversion
+    - Implement RPA to compile one stop Excel file for planning review and update
+  - title: Pizza box free project
+    url: 
+    date: '2021-02-01'
+    awarder: March 2020
+    icon: 
+    summary: |
+    This project is a part of cost saving action, to remove the pizza box from all finished goods packing.
+    - Analyze the as-is business process and draw the flow chart
+    - Compile requirement specification for WM customizing change
+    - Execute customizing and test and guide users to perform UAT
+    - Prepare for MM cutover when go-live
+  - title: DM eMR project
+    url: 
+    date: '2024-12-01'
+    awarder: September 2019
+    icon: 
+    summary: |
+    A new program set to cover direct material/indirect material request process flow
+    Responsibilities
+    - analyse business process flow
+    - consolidate function specs based on equirement
+    - test program after development
+    - user training
+  - title: Chip eMR project
+    url: 
+    date: '2018-05-01'
+    awarder: September 2017
+    icon: 
+    summary: |    
+    A new program set to cover chip matetial request process in SAP.
+    Responsibilities
+    - analyse business process flow
+    - consolidate function specs based on equirement
+    - test program after development
+    - user training
 ---
 
 I am currently SAP Application Manager MM/WM at Ammann SAP Customer Center of Expertise (CCoE) where I am responsible for SAP Application process management and optimization, specifically focusing on MM/WM modules, ensuring efficient operations and enhanced productivity.
